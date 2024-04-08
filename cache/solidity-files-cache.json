@@ -1,0 +1,446 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/mnt/c/users/antonio/demos/projectBYZ/contracts/Namecount.sol": {
+      "lastModificationDate": 1669880117658,
+      "contentHash": "c0ca555caffb1c504291c31ef057f4aa",
+      "sourceName": "contracts/Namecount.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Namecount"
+      ]
+    },
+    "/mnt/c/users/antonio/demos/projectBYZ/contracts/RealEstate.sol": {
+      "lastModificationDate": 1670018208647,
+      "contentHash": "96283eb50aa82b64b3856ca1f71fda6e",
+      "sourceName": "contracts/RealEstate.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.1",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.2"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "Counters",
+        "ERC165",
+        "ERC721",
+        "ERC721URIStorage",
+        "IERC165",
+        "IERC721",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "RealEstate",
+        "Strings"
+      ]
+    },
+    "/mnt/c/users/antonio/demos/projectBYZ/contracts/Boppit.sol": {
+      "lastModificationDate": 1670205746317,
+      "contentHash": "682852b4b498fb6a4505dd2f26480f5a",
+      "sourceName": "contracts/Boppit.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Boppit"
+      ]
+    },
+    "/mnt/c/Users/Antonio/demos/ProjectBYZ/contracts/Boppit.sol": {
+      "lastModificationDate": 1670699777719,
+      "contentHash": "877bbad2191abfded4fa123caad613b6",
+      "sourceName": "contracts/Boppit.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Boppit",
+        "IERC721"
+      ]
+    },
+    "/mnt/c/Users/Antonio/demos/ProjectBYZ/contracts/Namecount.sol": {
+      "lastModificationDate": 1670003424875,
+      "contentHash": "c0ca555caffb1c504291c31ef057f4aa",
+      "sourceName": "contracts/Namecount.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Namecount"
+      ]
+    },
+    "/mnt/c/Users/Antonio/demos/ProjectBYZ/contracts/RealEstate.sol": {
+      "lastModificationDate": 1670022040816,
+      "contentHash": "96283eb50aa82b64b3856ca1f71fda6e",
+      "sourceName": "contracts/RealEstate.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.1",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.2"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "Counters",
+        "ERC165",
+        "ERC721",
+        "ERC721URIStorage",
+        "IERC165",
+        "IERC721",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "RealEstate",
+        "Strings"
+      ]
+    },
+    "/mnt/c/Users/Antonio/demos/ProjectBYZ/contracts/FlashLoan.sol": {
+      "lastModificationDate": 1671474864548,
+      "contentHash": "d8ad8055d14f672d952f068946dd810e",
+      "sourceName": "contracts/FlashLoan.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol",
+        "./Token.sol",
+        "@openzeppelin/contracts/utils/math/SafeMath.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "FlashLoan",
+        "IReceiver"
+      ]
+    },
+    "/mnt/c/Users/Antonio/demos/ProjectBYZ/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1669874669929,
+      "contentHash": "4ff3cd2f6272c9a6516e9ee4f2b967d3",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">= 0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "/mnt/c/Users/Antonio/demos/ProjectBYZ/contracts/Token.sol": {
+      "lastModificationDate": 1670990926091,
+      "contentHash": "ea064d28eb6cbb52f9c314dccf1837af",
+      "sourceName": "contracts/Token.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Token"
+      ]
+    },
+    "/mnt/c/Users/Antonio/demos/ProjectBYZ/contracts/FlashLoandReceiver.sol": {
+      "lastModificationDate": 1671474900869,
+      "contentHash": "b0f0d6cfe90450862a48113a798064c6",
+      "sourceName": "contracts/FlashLoandReceiver.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol",
+        "./Token.sol",
+        "./FlashLoan.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "FlashLoanReceiver"
+      ]
+    },
+    "/mnt/c/Users/Antonio/demos/ProjectBYZ/node_modules/@openzeppelin/contracts/utils/math/SafeMath.sol": {
+      "lastModificationDate": 1671054944021,
+      "contentHash": "2337f0279507b5edf14a07067adf0d05",
+      "sourceName": "@openzeppelin/contracts/utils/math/SafeMath.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SafeMath"
+      ]
+    }
+  }
+}
